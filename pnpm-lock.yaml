@@ -38,6 +38,9 @@ dependencies:
   hexo-theme-landscape:
     specifier: ^1.0.0
     version: 1.0.0
+  hexo-util:
+    specifier: ^3.3.0
+    version: 3.3.0
   nunjucks:
     specifier: ^3.2.4
     version: 3.2.4
